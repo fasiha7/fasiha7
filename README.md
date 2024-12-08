@@ -1,16 +1,30 @@
 ## Hi there 👋
+# 👨‍💻 Software Developer
 
-<!--
-**fasiha7/fasiha7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about building innovative solutions and maintaining reliable systems. Experienced in leading technical teams and working on diverse projects.
 
-Here are some ideas to get you started:
+## 💼 Projects Involvement
+- **Technical Lead for University Project**  
+  - Directed a team of 5 developers to design and implement a web-based student portal.  
+  - Ensured code quality, timely delivery, and adherence to best practices.  
+  - Technologies used: HTML, CSS, JavaScript, and MySQL.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Legacy Codebase Maintenance**  
+  - Managed and modernized a 5-year-old legacy codebase to improve performance and readability.  
+  - Documented existing architecture and updated the system to support newer features.  
+  - Technologies used: C#, .NET Framework, and SQL Server.  
+
+## 🔧 Skills
+- Programming Languages: C#, JavaScript, Python  
+- Frameworks & Libraries: .NET Framework, React, Node.js  
+- Tools: Git, Visual Studio, SQL Server Management Studio  
+- Other: Legacy code modernization, team leadership, troubleshooting complex issues  
+
+---
+
+📫 **Contact Me**  
+Feel free to reach out for collaborations or inquiries!  
+- [Email](mailto:fasihahzamri77@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/your-profile)  
+
+
