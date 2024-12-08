@@ -18,7 +18,13 @@ Passionate about building innovative solutions and maintaining reliable systems.
 - Programming Languages: C#, JavaScript, Python  
 - Frameworks & Libraries: .NET Framework, React, Node.js  
 - Tools: Git, Visual Studio, SQL Server Management Studio  
-- Other: Legacy code modernization, team leadership, troubleshooting complex issues  
+- Other: Legacy code modernization, team leadership, troubleshooting complex issue
+
+  ---
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)  
 
 ---
 
